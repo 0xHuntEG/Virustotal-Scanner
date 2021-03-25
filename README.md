@@ -20,7 +20,7 @@ API = 'ENTER YOUR API'
 # Usage
 This script will use your api key on virustotal website to dump all the information that you need from it including scaning the Ip , domain, url and a file hash.
 ```
-Python3 Scanner.py [URL or Domain or IP or file Hash]
+Python3 Scanner.py [enter url]
 ```
 
 # Contact
